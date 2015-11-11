@@ -7,6 +7,7 @@ We are now going to rework the addition game using methods and for loops.
 
 ## Outline
 
+```
 // Import a scanner for user input later on
 // Call the addition game method
 	AdditionGameMethod();
@@ -16,6 +17,7 @@ We are now going to rework the addition game using methods and for loops.
 // Create a boolean statement to check the user input for the correct answer
 // Give user points and harder question for correct answers
 // Tell user the correct answer, no points, and give them an easier question if they answer incorrectly
+```
 
 ## References
 
