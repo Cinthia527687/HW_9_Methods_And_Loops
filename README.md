@@ -137,7 +137,7 @@ Your final score is: 120
 ## Command Prompt Output
 
 I had more commands on my command line.
-I took a break from working on this assigment, and when I cam back I could no longer see my previous commits on the command line.
+I took a break from working on this assigment, and when I came back I could no longer see my previous commits on the command line.
 I tried scrolling back up and had no luck.
 
 ###### Added Introduction and Summary.
@@ -234,5 +234,6 @@ nothing to commit, working directory clean
 I'm not an expert on methods and loops. I still don't quite understand how to make a method on my own without a little help.
 I hope that in the comming weeks I can get better at this and improve if not master methods and for loops.
 My goal is to learn as much as possible from Computer Science I this semester so that I can use that knowlegde for Computer Science II.
+
 Note: I also learned to not leave the command promp unmonitored. I have no clue why I could no longer see my previous commands.
 However, I will be sure to not let this happen again.
