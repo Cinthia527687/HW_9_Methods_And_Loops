@@ -235,5 +235,5 @@ I'm not an expert on methods and loops. I still don't quite understand how to ma
 I hope that in the comming weeks I can get better at this and improve if not master methods and for loops.
 My goal is to learn as much as possible from Computer Science I this semester so that I can use that knowlegde for Computer Science II.
 
-Note: I also learned to not leave the command promp unmonitored. I have no clue why I could no longer see my previous commands.
+Note: I also learned to not leave the command prompt unmonitored. I have no clue why I could no longer see my previous commands.
 However, I will be sure to not let this happen again.
