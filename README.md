@@ -136,7 +136,103 @@ Your final score is: 120
 
 ## Command Prompt Output
 
+I had more commands on my command line.
+I took a break from working on this assigment, and when I cam back I could no longer see my previous commits on the command line.
+I tried scrolling back up and had no luck.
+
+###### Added Introduction and Summary.
+
+```
+F:\Computer Science I\Section 1412 Workspace\HW_9_Methods_And_Loops>git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Cinthia527687
+Password for 'https://Cinthia527687@github.com':
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 574 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To https://github.com/Cinthia527687/HW_9_Methods_And_Loops.git
+   7846384..2ed3dfe  master -> master
+```
+
+###### Cleaned up my markdown outline.
+
+
+```
+F:\Computer Science I\Section 1412 Workspace\HW_9_Methods_And_Loops>git add .
+
+F:\Computer Science I\Section 1412 Workspace\HW_9_Methods_And_Loops>git commit -
+m "updated the outline"
+[master 085bcdc] updated the outline
+ 1 file changed, 2 insertions(+)
+
+F:\Computer Science I\Section 1412 Workspace\HW_9_Methods_And_Loops>git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Cinthia527687
+Password for 'https://Cinthia527687@github.com':
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 310 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To https://github.com/Cinthia527687/HW_9_Methods_And_Loops.git
+   2ed3dfe..085bcdc  master -> master
+```
+
+###### Checked my status.
+
+
+```
+F:\Computer Science I\Section 1412 Workspace\HW_9_Methods_And_Loops>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+```
+
 ## Summary
 I'm not an expert on methods and loops. I still don't quite understand how to make a method on my own without a little help.
 I hope that in the comming weeks I can get better at this and improve if not master methods and for loops.
 My goal is to learn as much as possible from Computer Science I this semester so that I can use that knowlegde for Computer Science II.
+Note: I also learned to not leave the command promp unmonitored. I have no clue why I could no longer see my previous commands.
+However, I will be sure to not let this happen again.
